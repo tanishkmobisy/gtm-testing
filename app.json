@@ -1,0 +1,9 @@
+{
+    "name": "GTM Testing",
+    "image": "heroku/php",
+    "buildpacks": [
+      {
+        "url": "https://github.com/stomita/heroku-buildpack-php"
+      }
+    ]
+  }
